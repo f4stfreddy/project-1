@@ -11,4 +11,4 @@ Changes Made Original HTML and CSS
     Added Alt text to images
     Revised CSS to match HTML
 
-Deployed URL: file:///C:/Users/frede/classroom/projects/project-1/index.html GitHub Repo URL: https://github.com/f4stfreddy/project-1.git
+Deployed URL: https://f4stfreddy.github.io/project-1/ GitHub Repo URL: https://github.com/f4stfreddy/project-1.git
